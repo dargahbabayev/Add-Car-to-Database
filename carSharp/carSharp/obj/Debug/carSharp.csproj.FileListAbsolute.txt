@@ -1,0 +1,10 @@
+C:\Users\UserPC\source\repos\carSharp\carSharp\bin\Debug\carSharp.exe.config
+C:\Users\UserPC\source\repos\carSharp\carSharp\bin\Debug\carSharp.exe
+C:\Users\UserPC\source\repos\carSharp\carSharp\bin\Debug\carSharp.pdb
+C:\Users\UserPC\source\repos\carSharp\carSharp\obj\Debug\carSharp.csprojResolveAssemblyReference.cache
+C:\Users\UserPC\source\repos\carSharp\carSharp\obj\Debug\carSharp.Form1.resources
+C:\Users\UserPC\source\repos\carSharp\carSharp\obj\Debug\carSharp.Properties.Resources.resources
+C:\Users\UserPC\source\repos\carSharp\carSharp\obj\Debug\carSharp.csproj.GenerateResource.Cache
+C:\Users\UserPC\source\repos\carSharp\carSharp\obj\Debug\carSharp.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\carSharp\carSharp\obj\Debug\carSharp.exe
+C:\Users\UserPC\source\repos\carSharp\carSharp\obj\Debug\carSharp.pdb
